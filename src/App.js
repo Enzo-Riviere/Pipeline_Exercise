@@ -36,7 +36,7 @@ const App = () => {
             }}
         >
             Counter App
-            <div id="counter_number"
+            <div id="count_number"
                 style={{
                     fontSize: "120%",
                     position: "relative",
